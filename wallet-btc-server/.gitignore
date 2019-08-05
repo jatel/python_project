@@ -1,0 +1,4 @@
+.cache/
+wallet_btc_server.log
+http_server/__pycache__/
+.vscode/
